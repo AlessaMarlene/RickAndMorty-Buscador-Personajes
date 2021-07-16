@@ -1,2 +1,2 @@
-Este proyecto realiza una búsqueda de personajes de RICK AND MORTY según el ID que ingreses al azar. Se utilizó la API "https://rickandmortyapi.com”. También podrás identificar al personaje clickeando en el nombre para acceder a su foto.
+Este proyecto realiza una búsqueda de personajes de RICK AND MORTY según el ID de personaje que ingreses al azar. Se utilizó la API "https://rickandmortyapi.com”. También podrás identificar al personaje clickeando en el nombre para acceder a su foto.
 Para poder loguearte en la app necesitarás un usuario y una constraseña. A la página web sólo se puede acceder con cualquiera de los usuarios de la siguiente API: "https://jsonplaceholder.typicode.com/users". En el formulario deberás ingresar el email del usuario y su ID.
